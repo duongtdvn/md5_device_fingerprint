@@ -1,0 +1,9 @@
+{
+  "name": "md5_device_fingerprint",
+  "version": "1.0.0",
+  "authors": [
+    "Duong Truong <duongtd@sololab.net>"
+  ],
+  "main": "md5_device_fingerprint.js",
+  "license": "MIT"
+}
